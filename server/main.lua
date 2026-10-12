@@ -1,4 +1,4 @@
-lib.versionCheck('0error-scripts/aicore_customs')
+lib.versionCheck('aicore-fivem/aicore_customs')
 local sharedConfig = require 'config.shared'
 
 ---@return number

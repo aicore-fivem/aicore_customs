@@ -10,7 +10,7 @@ A free-to-use and modify vehicle customization resource forked from [Popcornrp-c
 # Dependencies
 
 - [ox_lib](https://github.com/CommunityOx/ox_lib)
-- [aicore](https://github.com/0error-scripts/aicore)
+- [aicore](https://github.com/aicore-fivem/aicore)
 
 # Features
 

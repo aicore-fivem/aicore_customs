@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Aicore'
 description 'aicore_customs'
-repository 'https://github.com/0error-scripts/aicore_customs'
+repository 'https://github.com/aicore-fivem/aicore_customs'
 version '0.1.1'
 
 ox_lib 'locale'
